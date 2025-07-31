@@ -1,4 +1,3 @@
-# Basic Calculator Program (Improved Prompts)
 
 try:
     # Get input from the user
