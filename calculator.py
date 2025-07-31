@@ -1,4 +1,4 @@
-
+#GUI
 try:
     # Get input from the user
     num1 = float(input("Enter a number: "))
